@@ -1,0 +1,33 @@
+.createDiv {
+  font-family: Helvetica, sans-serif;
+  color: #404040;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.createh1 {
+  font-size: 30px;
+}
+
+.createh3 {
+  font-size: 15px;
+  padding: 0 0 3px 0;
+  margin: 0;
+}
+
+.createInput {
+  height: 20px;
+  width: 400px;
+  margin: 0 0 20px 0;
+  border: #404040 solid 1.4px;
+  border-radius: 3px;
+}
+
+.createConservationStatus {
+  height: 100px;
+  width: 400px;
+  border-radius: 3px;
+  border: #404040 solid 1.4px;
+  margin: 0 0 20px 0;
+}

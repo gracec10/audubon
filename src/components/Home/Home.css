@@ -1,0 +1,35 @@
+.homeDiv {
+  font-family: Helvetica, sans-serif;
+}
+
+.homeh2 {
+    text-align: left;
+    color: #404040;
+    font-size: 30px;
+    padding: 50px 0 50px 70px;
+}
+
+.homeSection {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav {
+  text-align: right;
+  width: 80%;
+  margin: auto;
+  font-style: italic;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #404040;
+}
+
+.homeContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: auto;
+}
