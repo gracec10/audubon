@@ -1,3 +1,9 @@
+# Bird Gallery
+A bird gallery for the Audubon Society.
+View all birds, click on a bird to see more details, and add new birds.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
